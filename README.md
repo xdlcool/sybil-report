@@ -1,6 +1,6 @@
 # LayerZero Sybil Reporting
 
-The [deadline to self-report](https://sybil.layerzero.network/) as sybil is May 18th, 00:00 UTC, following the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
+The [deadline to self-report](https://sybil.layerzero.network/) as sybil is May 17th, 23:59 UTC, following the publication of the up-to-date list of self-reported and identified sybil addresses found by LayerZero Foundation, Chaos Labs, and Nansen. This will mark the end of Phase 1 of [addressing sybil activity](https://medium.com/layerzero-official/addressing-sybil-activity-a2f92218ddd3). 
 
 Phase 2 begins on May 18th at 02:00 UTC, at which anyone can submit a sybil activity report. Successful reports result in the sybil addresses receiving nothing and the bounty hunter receiving 10% of the sybil’s intended allocation. 
 
